@@ -9,7 +9,7 @@
   },
   "package-specs": [{
     "module": "commonjs",
-    "in-source": true
+    // "in-source": true
   }],
   "suffix": ".bs.js",
   "namespace": true,
